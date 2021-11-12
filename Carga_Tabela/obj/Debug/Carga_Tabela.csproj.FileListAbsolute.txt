@@ -1,0 +1,7 @@
+E:\Desenv5\Gerador de Pessoas_CPF\Carga_Tabela\Carga_Tabela\bin\Debug\Carga_Tabela.exe.config
+E:\Desenv5\Gerador de Pessoas_CPF\Carga_Tabela\Carga_Tabela\bin\Debug\Carga_Tabela.exe
+E:\Desenv5\Gerador de Pessoas_CPF\Carga_Tabela\Carga_Tabela\bin\Debug\Carga_Tabela.pdb
+E:\Desenv5\Gerador de Pessoas_CPF\Carga_Tabela\Carga_Tabela\obj\Debug\Carga_Tabela.csprojAssemblyReference.cache
+E:\Desenv5\Gerador de Pessoas_CPF\Carga_Tabela\Carga_Tabela\obj\Debug\Carga_Tabela.csproj.CoreCompileInputs.cache
+E:\Desenv5\Gerador de Pessoas_CPF\Carga_Tabela\Carga_Tabela\obj\Debug\Carga_Tabela.exe
+E:\Desenv5\Gerador de Pessoas_CPF\Carga_Tabela\Carga_Tabela\obj\Debug\Carga_Tabela.pdb
